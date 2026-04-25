@@ -1,4 +1,4 @@
-# 🤖 HFT Siege — Competition Trading Bot
+# 🤖 Competition Trading Bot
 
 An algorithmic trading bot built for the **HFT Siege** competition, running on the [mason](https://github.com/adimukh1234/mason) platform. Connects via WebSocket, receives real-time price feeds, and executes limit orders autonomously using a momentum + news strategy with full risk management.
 
